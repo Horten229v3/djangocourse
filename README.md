@@ -1,0 +1,2 @@
+# djangocourse
+First Django course 
